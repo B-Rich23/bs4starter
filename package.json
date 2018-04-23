@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Bootstrap4 workflow",
   "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
   "author": "Brandan L. Richardson",
   "license": "MIT",
   "dependencies": {
